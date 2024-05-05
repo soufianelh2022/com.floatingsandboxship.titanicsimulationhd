@@ -13,10 +13,10 @@
    
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_OpenAd"            : "ca-app-pub-3940256099942544/9257395921",
+    "AdMob_Banner"            : "ca-app-pub-4401988206912308/9979468115",
+    "AdMob_InterstitialAd"    : "ca-app-pub-4401988206912308/4890792963",
+    "AdMob_Native"            : "ca-app-pub-4401988206912308/2264629623",
+    "AdMob_OpenAd"            : "ca-app-pub-4401988206912308/2858476249",
     
     "Applovin_Banner"         : "a5f235ba1320fb35",
     "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
